@@ -12,7 +12,7 @@
 - I do no know it all but I know more enough to keep it moving
 - Open to Collaboration
 - You can connect with me on https://www.linkedin.com/in/Damilare-Williams/
-
+- changing the world!
 
 <!---
 Darewilliams54/Darewilliams54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
