@@ -1,5 +1,12 @@
 -Hi, I’m Damilare Williams
-- Innovation fulls me
+- Love to build it and security
+- Move it and protect it
+- Deploy Deploy Deploy
+- Driven by innovation
+- Penchant for automation
+- Security at every layer
+- Meticulous to mitigate troubleshooting
+- Troubleshooting is part of the job anyways
 - currently doing a bunch of migration projects. 
 - I do no know it all but I know more enough to keep it moving
 - Open to Collaboration
